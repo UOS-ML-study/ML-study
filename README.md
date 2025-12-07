@@ -76,6 +76,10 @@
 
 ## 5. 폴더 구조
 
+구글 드라이브 경로 
+https://drive.google.com/drive/folders/1wj-q3eaW0NnqVwNPqaAHKDprNXLZqIc8?usp=sharing
+
+
 ```text
 project-root/
 ├─ README.md
@@ -114,4 +118,5 @@ project-root/
 └─ reports/
    ├─ figures/                  # 최종 발표용 시각화(혼동행렬, 비교 그래프 등)
    └─ model_comparison_summary.csv  # 모델별 성능 요약 테이블
+
 
